@@ -1,0 +1,20 @@
+App 01: To Do List
+App 02: Project Showcase
+App 03: PDF Creator
+App 04: XLSX to PDF Converter
+App 05: Daily Newsletter
+App 06: Weather Data API
+App 07: Weather Forecast
+App 08: Book Analysis
+App 09: Webcam Motion Detector
+App 10: Event Scraper
+App 11: Hotel Website
+App 12: Platformer Game
+App 13: SQLite Student Management System
+App 14: MySQL Student Management System
+App 15: Web Automation Tool
+App 16: Flask Job Application Form
+App 17: Django Job Application Form
+App 18: Restaurant Website
+App 19: Movie Recommendation System
+App 20: Coming Soon
